@@ -5,3 +5,7 @@ Iam updating this
 Iam updating this in branch
 
 Iam updating this in branch b2
+
+Iam editing from remote repository
+
+commit check
